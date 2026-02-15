@@ -15,3 +15,6 @@ body{
 .pr{
   border-bottom: solid 1px black;
 }
+.srcimg img{
+  width: 100px;
+}
