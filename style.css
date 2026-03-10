@@ -16,11 +16,11 @@ body{
   border-bottom: solid 1px black;
 }
 .srcimg1 img {
-  width: 100px;
+  width: 100%;
 }
 
 .iwatekenkotsugod {
-  width: 100px;
+  width: 110px;
 }
 p {
   background:gray;
